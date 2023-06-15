@@ -1,0 +1,234 @@
+"continent","wb_api3c","iso3c","country.name.en","basic.systems","provision","overall","governance","income","quantity"
+"Asia","AFG","AFG","Afghanistan","No data","Full","Basic","Yes","SIDS",1.10905948070788
+"Europe","ALB","ALB","Albania","Less than basic","Advanced","Less than basic","Yes","Low income",-0.324526168005017
+"Africa","DZA","DZA","Algeria","Full","Advanced","Basic","Yes","High income",0.222863508434789
+"Europe","AND","AND","Andorra","Less than basic","Full","Basic","Yes","SIDS",-1.95507659174155
+"Africa","AGO","AGO","Angola","Less than basic","No data","Essential","Yes","LDCs",0.958720211067305
+"Americas","ATG","ATG","Antigua & Barbuda","Basic","Full","Essential","Yes","SIDS",-2.91564483726115
+"Americas","ARG","ARG","Argentina","Less than basic","No data","Full","Yes","SIDS",1.92426763355935
+"Asia","ARM","ARM","Armenia","No data","Advanced","Basic","Yes","High income",1.57391692633629
+"Oceania","AUS","AUS","Australia","No data","Advanced","Basic","No","LDCs",-1.19014877072492
+"Europe","AUT","AUT","Austria","Basic","Full","Less than basic","Yes","LDCs",-1.62928782327995
+NA,NA,NA,"Austria-Hungary","Less than basic","Basic","Basic","Yes","Low income",1.08041661482312
+"Asia","AZE","AZE","Azerbaijan","No data","Advanced","Essential","No data","Low income",-1.05288180728618
+NA,NA,NA,"Baden","Basic","Less than basic","Essential","Yes","LDCs",1.82648311924487
+"Americas","BHS","BHS","Bahamas","No data","Essential","Less than basic","No","SIDS",-0.248462901326096
+"Asia","BHR","BHR","Bahrain","Less than basic","Essential","No data","Yes","LDCs",-0.709279793350342
+"Asia","BGD","BGD","Bangladesh","Basic","No data","Essential","Yes","Low income",-0.577233421539548
+"Americas","BRB","BRB","Barbados","Advanced","Full","Full","No","SIDS",0.0630029815150291
+NA,NA,NA,"Bavaria","Advanced","No data","Full","No","Low income",1.77108858959256
+"Europe","BLR","BLR","Belarus","Full","Advanced","Essential","No data","SIDS",1.360723985264
+"Europe","BEL","BEL","Belgium","Essential","Advanced","Full","Yes","Low income",-0.137581577174752
+"Americas","BLZ","BLZ","Belize","Less than basic","Basic","Full","Yes","High income",0.0760552574171238
+"Africa","BEN","BEN","Benin","Less than basic","Full","Full","Yes","High income",-0.415739490943918
+"Asia","BTN","BTN","Bhutan","Basic","Less than basic","Less than basic","Yes","Low income",1.68474663608942
+"Americas","BOL","BOL","Bolivia","Essential","No data","Basic","Yes","High income",-0.0827088535389195
+"Europe","BIH","BIH","Bosnia & Herzegovina","Advanced","Advanced","Essential","No","LDCs",1.22180043041739
+"Africa","BWA","BWA","Botswana","No data","Full","Full","Yes","Low income",2.13057652991294
+"Americas","BRA","BRA","Brazil","Essential","Less than basic","Essential","No","High income",-1.19940770268404
+"Asia","BRN","BRN","Brunei","Basic","Essential","Essential","No data","High income",1.94526018399584
+NA,NA,NA,"Brunswick","Basic","Advanced","Basic","Yes","SIDS",-1.31814721953264
+"Europe","BGR","BGR","Bulgaria","Less than basic","Essential","Essential","Yes","LDCs",0.217146806577262
+"Africa","BFA","BFA","Burkina Faso","No data","Basic","Less than basic","No data","High income",0.565582423122442
+"Africa","BDI","BDI","Burundi","Advanced","Less than basic","Essential","No data","LDCs",1.16678859219559
+"Asia","KHM","KHM","Cambodia","Basic","Essential","Basic","Yes","SIDS",-1.03474923189094
+"Africa","CMR","CMR","Cameroon","Advanced","Basic","Less than basic","Yes","SIDS",0.291809181009587
+"Americas","CAN","CAN","Canada","Advanced","Basic","Essential","Yes","SIDS",1.02601103557095
+"Africa","CPV","CPV","Cape Verde","Advanced","No data","Basic","No data","SIDS",2.34107285174041
+"Africa","CAF","CAF","Central African Republic","Essential","Less than basic","Basic","No","LDCs",0.245456940010942
+"Africa","TCD","TCD","Chad","No data","No data","Full","Yes","SIDS",-0.652953399336719
+"Americas","CHL","CHL","Chile","Less than basic","Full","Full","Yes","Low income",1.12223274844137
+"Asia","CHN","CHN","China","Less than basic","Less than basic","Basic","No","LDCs",-0.133173746563606
+"Americas","COL","COL","Colombia","Basic","Advanced","Essential","Yes","SIDS",0.324916946399177
+"Africa","COM","COM","Comoros","Basic","Basic","Advanced","Yes","SIDS",0.470481731482369
+"Africa","COG","COG","Congo - Brazzaville","Advanced","Full","Advanced","Yes","High income",0.86828802824616
+"Africa","COD","COD","Congo - Kinshasa","Advanced","Less than basic","Less than basic","Yes","High income",0.813078175153806
+"Americas","CRI","CRI","Costa Rica","Basic","No data","Basic","Yes","High income",-0.139207941239973
+"Europe","HRV","HRV","Croatia","Advanced","No data","Basic","Yes","LDCs",1.88007753490146
+"Americas","CUB","CUB","Cuba","Basic","No data","Essential","Yes","Low income",-1.90014149929475
+"Asia","CYP","CYP","Cyprus","Advanced","No data","Full","Yes","LDCs",-0.488979589914341
+"Europe","CZE","CZE","Czechia","Basic","Advanced","Essential","No data","LDCs",0.879450632785365
+NA,NA,NA,"Czechoslovakia","Basic","No data","Basic","No data","High income",-1.84861571121165
+"Africa","CIV","CIV","Côte d’Ivoire","Full","No data","Less than basic","Yes","High income",-3.29263156197331
+"Europe","DNK","DNK","Denmark","No data","No data","Full","Yes","LDCs",0.71735580439613
+"Africa","DJI","DJI","Djibouti","Advanced","Full","Full","No","High income",0.0824232303633037
+"Americas","DMA","DMA","Dominica","Full","No data","Less than basic","No data","High income",1.3234600465624
+"Americas","DOM","DOM","Dominican Republic","Essential","Full","Less than basic","Yes","Low income",2.06892898288653
+"Americas","ECU","ECU","Ecuador","Basic","No data","Less than basic","No data","High income",1.5186408625257
+"Africa","EGY","EGY","Egypt","Advanced","Full","Full","Yes","SIDS",-2.39408839194706
+"Americas","SLV","SLV","El Salvador","Advanced","Essential","Less than basic","Yes","High income",-0.322536960283232
+"Africa","GNQ","GNQ","Equatorial Guinea","Basic","Essential","Less than basic","Yes","SIDS",1.25563135019612
+"Africa","ERI","ERI","Eritrea","Less than basic","Advanced","Basic","Yes","High income",2.10135794351823
+"Europe","EST","EST","Estonia","Advanced","Advanced","Full","Yes","LDCs",0.33145830473215
+"Africa","SWZ","SWZ","Eswatini","Basic","No data","Basic","Yes","LDCs",-2.30133946805668
+"Africa","ETH","ETH","Ethiopia","Essential","Full","Basic","Yes","High income",-0.606536790335688
+"Oceania","FJI","FJI","Fiji","Essential","No data","Advanced","Yes","Low income",1.50730518522053
+"Europe","FIN","FIN","Finland","Basic","Full","Basic","No","High income",0.37252545588176
+"Europe","FRA","FRA","France","Less than basic","No data","Less than basic","Yes","LDCs",1.69833443450339
+"Africa","GAB","GAB","Gabon","Advanced","Basic","Essential","No data","Low income",0.219541883279306
+"Africa","GMB","GMB","Gambia","Essential","No data","Less than basic","Yes","SIDS",-1.0078146128221
+"Asia","GEO","GEO","Georgia","Less than basic","No data","Less than basic","Yes","High income",-0.828770440887585
+NA,NA,NA,"German Democratic Republic","Less than basic","No data","Essential","Yes","Low income",-0.0818447633334911
+"Europe","DEU","DEU","Germany","Full","Advanced","Essential","Yes","LDCs",0.258194729381743
+"Africa","GHA","GHA","Ghana","Advanced","No data","Less than basic","Yes","Low income",-0.428547120848338
+"Europe","GRC","GRC","Greece","Less than basic","Advanced","Full","No data","SIDS",1.00431350950077
+"Americas","GRD","GRD","Grenada","Essential","Advanced","Essential","Yes","Low income",-0.195143958225616
+"Americas","GTM","GTM","Guatemala","Basic","Full","Basic","Yes","Low income",0.259695793821755
+"Africa","GIN","GIN","Guinea","Full","No data","Less than basic","No data","Low income",-0.832541875004447
+"Africa","GNB","GNB","Guinea-Bissau","Less than basic","No data","Basic","No data","LDCs",0.435107448692124
+"Americas","GUY","GUY","Guyana","Essential","Advanced","Full","No data","Low income",-1.39208106983453
+"Americas","HTI","HTI","Haiti","Essential","No data","Advanced","No","Low income",0.717787323360363
+NA,NA,NA,"Hamburg","Less than basic","Full","Full","No","Low income",0.196892486546564
+NA,NA,NA,"Hanover","Less than basic","Essential","Basic","Yes","SIDS",1.18214321769434
+NA,NA,NA,"Hesse Electoral","No data","Essential","Basic","Yes","LDCs",-0.577767615704325
+NA,NA,NA,"Hesse Grand Ducal","Full","Advanced","Essential","Yes","Low income",0.643011662569311
+NA,NA,NA,"Hesse-Darmstadt","Essential","No data","Basic","Yes","Low income",1.02089321993983
+NA,NA,NA,"Hesse-Kassel","Less than basic","No data","Basic","No","Low income",-1.07892375914233
+"Americas","HND","HND","Honduras","No data","Full","No data","No","Low income",-0.619042933075464
+"Asia","HKG","HKG","Hong Kong SAR China","Less than basic","No data","Less than basic","No","High income",1.23046104098344
+"Europe","HUN","HUN","Hungary","Full","Full","Less than basic","Yes","Low income",-1.40725499779816
+"Europe","ISL","ISL","Iceland","Less than basic","Basic","Essential","Yes","High income",-0.138792758311873
+"Asia","IND","IND","India","No data","No data","Essential","Yes","SIDS",-0.837755455786825
+"Asia","IDN","IDN","Indonesia","Less than basic","No data","Basic","Yes","LDCs",0.174345000150559
+"Asia","IRN","IRN","Iran","Less than basic","Essential","Advanced","Yes","LDCs",-0.130833982405577
+"Asia","IRQ","IRQ","Iraq","Less than basic","Basic","Basic","No data","SIDS",0.309947823083761
+"Europe","IRL","IRL","Ireland","Advanced","Advanced","Full","Yes","SIDS",0.704238145662659
+"Asia","ISR","ISR","Israel","Less than basic","Full","Basic","Yes","High income",0.542968584341279
+"Europe","ITA","ITA","Italy","No data","Full","Less than basic","No data","LDCs",-0.714387344229223
+"Americas","JAM","JAM","Jamaica","Advanced","No data","Essential","Yes","Low income",-0.831847968332773
+"Asia","JPN","JPN","Japan","Basic","No data","Essential","No data","High income",0.254971447565071
+"Asia","JOR","JOR","Jordan","Basic","Advanced","Less than basic","Yes","High income",-0.710871042639354
+"Asia","KAZ","KAZ","Kazakhstan","Advanced","Advanced","Less than basic","Yes","LDCs",-1.5152817551634
+"Africa","KEN","KEN","Kenya","Less than basic","Advanced","Advanced","No","High income",-0.606914418715357
+"Oceania","KIR","KIR","Kiribati","Full","Advanced","Essential","No data","High income",0.392807075337267
+NA,"XKX",NA,"Kosovo","Less than basic","Full","Less than basic","Yes","High income",-0.0989595199727811
+"Asia","KWT","KWT","Kuwait","Basic","No data","Full","Yes","High income",-0.00967592050462682
+"Asia","KGZ","KGZ","Kyrgyzstan","Basic","Advanced","Full","No data","Low income",-1.67673548941765
+"Asia","LAO","LAO","Laos","Full","No data","Advanced","Yes","Low income",-0.145196832436323
+"Europe","LVA","LVA","Latvia","Less than basic","Advanced","Basic","Yes","Low income",-0.840068289447147
+"Asia","LBN","LBN","Lebanon","Full","Advanced","Full","Yes","Low income",-0.908265253622662
+"Africa","LSO","LSO","Lesotho","Full","Essential","Advanced","Yes","Low income",-0.376468203532949
+"Africa","LBR","LBR","Liberia","Less than basic","No data","Basic","Yes","LDCs",1.51916706782101
+"Africa","LBY","LBY","Libya","Less than basic","Advanced","Full","No","Low income",-1.53945718894702
+"Europe","LIE","LIE","Liechtenstein","Basic","Essential","Basic","Yes","LDCs",1.25905380688344
+"Europe","LTU","LTU","Lithuania","No data","Advanced","Essential","No","Low income",-0.442517909807199
+"Europe","LUX","LUX","Luxembourg","Full","Full","Full","Yes","LDCs",-1.1455475316265
+"Africa","MDG","MDG","Madagascar","Basic","Advanced","Essential","Yes","SIDS",0.464259143581618
+"Africa","MWI","MWI","Malawi","Essential","Advanced","Full","Yes","High income",-0.242748315458535
+"Asia","MYS","MYS","Malaysia","Less than basic","No data","Basic","Yes","High income",0.410272957946559
+"Asia","MDV","MDV","Maldives","No data","Advanced","No data","Yes","Low income",-1.47974801697665
+"Africa","MLI","MLI","Mali","No data","Less than basic","Basic","Yes","Low income",0.180749198059659
+"Europe","MLT","MLT","Malta","Full","Basic","Essential","Yes","Low income",-1.99784454826812
+"Oceania","MHL","MHL","Marshall Islands","Essential","Essential","Advanced","Yes","Low income",1.10415749563161
+"Africa","MRT","MRT","Mauritania","Full","Advanced","Less than basic","Yes","SIDS",-0.664916608891018
+"Africa","MUS","MUS","Mauritius","No data","No data","Less than basic","No data","High income",0.312039201731346
+NA,NA,NA,"Mecklenburg Schwerin","Basic","Advanced","Basic","No data","SIDS",-0.962792084755562
+"Americas","MEX","MEX","Mexico","Basic","Basic","Essential","Yes","Low income",0.156155409662944
+"Oceania","FSM","FSM","Micronesia (Federated States of)","Basic","Advanced","Essential","No","High income",2.29065886320849
+NA,NA,NA,"Modena","Full","Full","Full","Yes","Low income",-0.925559367501027
+"Europe","MDA","MDA","Moldova","Essential","Advanced","Essential","Yes","Low income",0.7232008779047
+"Europe","MCO","MCO","Monaco","Advanced","No data","Basic","Yes","High income",-1.03125855264272
+"Asia","MNG","MNG","Mongolia","Basic","No data","Less than basic","Yes","LDCs",1.39649619903709
+"Europe","MNE","MNE","Montenegro","Basic","Advanced","Basic","Yes","High income",0.402023824812389
+"Africa","MAR","MAR","Morocco","Less than basic","Advanced","Less than basic","Yes","SIDS",0.373770798469145
+"Africa","MOZ","MOZ","Mozambique","Basic","No data","Advanced","Yes","Low income",1.46869963369529
+"Asia","MMR","MMR","Myanmar (Burma)","Basic","Full","Basic","Yes","LDCs",0.136287616175398
+"Africa","NAM","NAM","Namibia","No data","Full","Essential","Yes","SIDS",0.0340430997048501
+NA,NA,NA,"Nassau","Basic","No data","Less than basic","Yes","LDCs",-1.88341561649601
+"Oceania","NRU","NRU","Nauru","Essential","Advanced","Less than basic","Yes","SIDS",0.582460624555032
+"Asia","NPL","NPL","Nepal","No data","No data","Less than basic","No","LDCs",1.15764367222719
+"Europe","NLD","NLD","Netherlands","Full","No data","Less than basic","Yes","SIDS",0.176699729524799
+"Oceania","NZL","NZL","New Zealand","Full","No data","Basic","No","Low income",0.872916772870946
+"Americas","NIC","NIC","Nicaragua","No data","Basic","Less than basic","No data","LDCs",-1.76083001785562
+"Africa","NER","NER","Niger","Full","Basic","No data","No data","High income",-0.972220505764812
+"Africa","NGA","NGA","Nigeria","Advanced","Advanced","Less than basic","Yes","LDCs",1.73638004715422
+"Asia","PRK","PRK","North Korea","Full","Full","Basic","No","High income",0.467929596851009
+"Europe","MKD","MKD","North Macedonia","Basic","Full","Full","No","Low income",-1.24730433566888
+"Europe","NOR","NOR","Norway","No data","Basic","Basic","Yes","Low income",-2.38343183706649
+NA,NA,NA,"Oldenburg","Essential","Essential","Essential","Yes","Low income",-0.431488053041115
+"Asia","OMN","OMN","Oman","No data","No data","Full","No data","High income",1.5067357022798
+NA,NA,NA,"Orange Free State","Less than basic","Advanced","Less than basic","Yes","LDCs",0.404041200981799
+"Asia","PAK","PAK","Pakistan","Advanced","Less than basic","Full","Yes","High income",0.887190959254518
+"Oceania","PLW","PLW","Palau","No data","Advanced","Basic","Yes","LDCs",-1.78950668750057
+"Asia","PSE","PSE","Palestinian Territories","Less than basic","Full","Less than basic","Yes","LDCs",0.938922322858919
+"Americas","PAN","PAN","Panama","Advanced","No data","Less than basic","No data","High income",-0.578045447134712
+"Oceania","PNG","PNG","Papua New Guinea","Advanced","Full","Full","Yes","High income",-0.709854706605333
+"Americas","PRY","PRY","Paraguay","Less than basic","Essential","No data","Yes","Low income",-0.4632829378789
+NA,NA,NA,"Parma","Full","No data","Full","Yes","High income",0.241650485508425
+"Americas","PER","PER","Peru","Basic","Essential","Basic","Yes","SIDS",-1.96852983123841
+"Asia","PHL","PHL","Philippines","Essential","No data","Basic","No","LDCs",0.839579396151406
+NA,NA,NA,"Piedmont-Sardinia","Basic","Advanced","Less than basic","Yes","Low income",0.971524455710138
+"Europe","POL","POL","Poland","Advanced","Advanced","Full","Yes","High income",0.481553040501686
+"Europe","PRT","PRT","Portugal","Essential","Full","Less than basic","Yes","Low income",0.430132725776166
+NA,NA,NA,"Prussia","Basic","Less than basic","Basic","No","SIDS",1.52683583296579
+"Asia","QAT","QAT","Qatar","Essential","Basic","Basic","Yes","SIDS",0.537215327561066
+"Asia",NA,NA,"Republic of Vietnam","No data","No data","Basic","Yes","Low income",0.285699693266864
+"Europe","ROU","ROU","Romania","Full","Advanced","Full","Yes","SIDS",1.92580655547882
+"Europe","RUS","RUS","Russia","Full","Full","Essential","No data","LDCs",-0.652185628815363
+"Africa","RWA","RWA","Rwanda","No data","No data","Less than basic","Yes","Low income",0.19240967870579
+"Oceania","WSM","WSM","Samoa","No data","Less than basic","Less than basic","Yes","SIDS",-1.34736302442574
+"Europe","SMR","SMR","San Marino","Full","Full","Basic","Yes","Low income",-1.03818070264574
+NA,NA,NA,"Sardinia","Advanced","Less than basic","Essential","Yes","LDCs",0.623571235603443
+"Asia","SAU","SAU","Saudi Arabia","Full","Full","Less than basic","Yes","Low income",-0.588271698959744
+NA,NA,NA,"Saxe-Weimar-Eisenach","Basic","No data","Essential","Yes","LDCs",1.58156662190835
+NA,NA,NA,"Saxony","Basic","Advanced","Full","Yes","SIDS",-0.405781234719409
+"Africa","SEN","SEN","Senegal","Full","Advanced","Less than basic","Yes","High income",-1.26720466920732
+"Europe","SRB","SRB","Serbia","Full","Advanced","Full","Yes","High income",-0.410158174228806
+NA,NA,NA,"Serbia and Montenegro","Basic","Advanced","Essential","Yes","Low income",0.684157311661245
+"Africa","SYC","SYC","Seychelles","Full","Basic","Basic","Yes","SIDS",-0.783132319734637
+"Africa","SLE","SLE","Sierra Leone","Essential","No data","Essential","Yes","LDCs",0.0885440297870104
+"Asia","SGP","SGP","Singapore","Full","No data","Basic","Yes","Low income",-1.0499401254348
+"Europe","SVK","SVK","Slovakia","Basic","Basic","Essential","Yes","Low income",-1.66901903248
+"Europe","SVN","SVN","Slovenia","Full","Basic","Advanced","No","LDCs",1.15774101270513
+"Oceania","SLB","SLB","Solomon Islands","Advanced","Advanced","No data","Yes","High income",0.184006103324555
+"Africa","SOM","SOM","Somalia","Essential","No data","Less than basic","Yes","High income",1.05436131940255
+"Africa",NA,NA,"Somaliland","Less than basic","Essential","Less than basic","No data","Low income",-1.03406707266864
+"Africa","ZAF","ZAF","South Africa","Less than basic","Advanced","Advanced","Yes","SIDS",1.27512765716627
+"Asia","KOR","KOR","South Korea","Basic","Advanced","Basic","Yes","LDCs",-1.53088830814734
+"Africa","SSD","SSD","South Sudan","Full","Essential","Basic","No","Low income",-0.515988571146587
+"Europe","ESP","ESP","Spain","Essential","Less than basic","Less than basic","Yes","High income",0.0935146833664466
+"Asia","LKA","LKA","Sri Lanka","Full","No data","Essential","Yes","LDCs",-0.158492582215459
+"Americas","KNA","KNA","St. Kitts & Nevis","Full","No data","Less than basic","Yes","Low income",-1.92820063767484
+"Americas","LCA","LCA","St. Lucia","Essential","No data","Advanced","Yes","Low income",-0.143942153988983
+"Americas","VCT","VCT","St. Vincent & Grenadines","No data","Essential","Basic","Yes","Low income",-0.0898257755766089
+"Africa","SDN","SDN","Sudan","Essential","Essential","Basic","No data","Low income",1.43822389394977
+"Americas","SUR","SUR","Suriname","Less than basic","Full","Full","No data","Low income",0.745995459561248
+"Europe","SWE","SWE","Sweden","Basic","Basic","Basic","Yes","Low income",0.617038015234138
+"Europe","CHE","CHE","Switzerland","No data","Essential","Basic","Yes","SIDS",-0.0262143675952003
+"Asia","SYR","SYR","Syria","Less than basic","Less than basic","Basic","No data","SIDS",1.35456453061052
+"Africa","STP","STP","São Tomé & Príncipe","Full","No data","Advanced","Yes","High income",-1.12243525290877
+"Asia","TWN","TWN","Taiwan","Basic","Less than basic","Full","Yes","High income",-1.32269987261742
+"Asia","TJK","TJK","Tajikistan","Basic","Advanced","Basic","Yes","SIDS",-1.63999061653624
+"Africa","TZA","TZA","Tanzania","No data","Full","Basic","Yes","High income",0.58831378483404
+"Asia","THA","THA","Thailand","Essential","No data","Less than basic","Yes","LDCs",-0.315621572615338
+"Asia","TLS","TLS","Timor-Leste","Essential","Essential","Basic","Yes","LDCs",0.883391618900867
+"Africa","TGO","TGO","Togo","No data","Advanced","Basic","Yes","High income",-0.547414681143969
+"Oceania","TON","TON","Tonga","Advanced","No data","Less than basic","Yes","Low income",-1.31511743805163
+"Americas","TTO","TTO","Trinidad & Tobago","Advanced","Full","Full","Yes","High income",-0.617615522351827
+"Africa","TUN","TUN","Tunisia","Less than basic","No data","Basic","Yes","SIDS",0.978610652369339
+"Asia","TUR","TUR","Turkey","Full","No data","Essential","Yes","High income",-0.814770588857406
+"Asia","TKM","TKM","Turkmenistan","Advanced","Less than basic","Less than basic","Yes","LDCs",1.19377800524349
+NA,NA,NA,"Tuscany","Advanced","Essential","Essential","Yes","High income",0.145679326566576
+"Oceania","TUV","TUV","Tuvalu","Advanced","Full","Less than basic","No data","High income",0.816897057522722
+NA,NA,NA,"Two Sicilies","Full","No data","Essential","Yes","High income",-1.27540559753301
+"Africa","UGA","UGA","Uganda","Essential","No data","Advanced","Yes","SIDS",-1.51199687152802
+"Europe","UKR","UKR","Ukraine","Essential","Full","Full","No data","High income",-0.00199828009684261
+"Asia","ARE","ARE","United Arab Emirates","Basic","Essential","Basic","Yes","LDCs",-1.27482141649541
+"Europe","GBR","GBR","United Kingdom","Essential","Basic","Basic","No","SIDS",-0.675673455308735
+NA,NA,NA,"United Province CA","No data","Advanced","No data","Yes","SIDS",1.74721316638384
+"Americas","USA","USA","United States","Full","Advanced","Essential","Yes","Low income",0.596683048634403
+"Americas","URY","URY","Uruguay","No data","Full","Advanced","No data","SIDS",0.0920186745904688
+"Asia","UZB","UZB","Uzbekistan","Full","Full","Less than basic","Yes","High income",-0.226135329028148
+"Oceania","VUT","VUT","Vanuatu","No data","No data","Less than basic","Yes","LDCs",-0.25987884761967
+"Europe",NA,"VAT","Vatican City","Essential","No data","Less than basic","Yes","SIDS",-0.272098302508761
+"Americas","VEN","VEN","Venezuela","Basic","Essential","Essential","Yes","Low income",-0.928377783319588
+"Asia","VNM","VNM","Vietnam","Basic","Advanced","Basic","No data","Low income",1.12122225365388
+NA,NA,NA,"Wuerttemburg","Full","Full","Full","No data","Low income",0.534777920021148
+NA,NA,NA,"Würtemberg","Essential","Basic","Less than basic","Yes","LDCs",0.934085120590501
+"Asia","YEM","YEM","Yemen","Advanced","No data","Basic","Yes","Low income",0.0693483182232432
+NA,NA,NA,"Yemen Arab Republic","Less than basic","No data","Less than basic","No","SIDS",1.58483840967004
+NA,NA,NA,"Yemen People's Republic","Less than basic","Advanced","Full","Yes","Low income",0.661640288724968
+NA,NA,NA,"Yugoslavia","Advanced","Advanced","Full","No","High income",-1.54111843671998
+"Africa","ZMB","ZMB","Zambia","Less than basic","Essential","Less than basic","Yes","LDCs",-0.979096833888274
+NA,NA,NA,"Zanzibar","Advanced","Advanced","No data","No data","SIDS",-2.59940022094004
+"Africa","ZWE","ZWE","Zimbabwe","Basic","Advanced","Essential","Yes","High income",-1.98392340221718
