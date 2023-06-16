@@ -175,7 +175,7 @@ ui <- bootstrapPage(
                           absolutePanel(id = "logo", class = "card", bottom = 20, left = 60, width = 30, fixed=TRUE, draggable = FALSE, height = "auto",
                                         actionButton("github", label = "", icon = icon("github"),style='padding:5px',
                                                      onclick = sprintf("window.open('%s')", 
-                                                                       "https://github.com/bernibra"))),
+                                                                       "https://github.com/bernibra/shiny-template"))),
                           absolutePanel(id = "logo", class = "card", bottom = 20, left = 20, width = 30, fixed=TRUE, draggable = FALSE, height = "auto",
                                         actionButton("wmo", label = "", icon = icon("globe"),style='padding:5px',
                                                      onclick = sprintf("window.open('%s')", 
